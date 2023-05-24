@@ -4,8 +4,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.9.0",
-  "description": "⚒️ An SDK for building applications on top of Uniswap V3",
+  "version": "1.0.0",
+  "description": "⚒️ An SDK for building applications on top of DerpDex",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -13,8 +13,8 @@
   ],
   "repository": "https://github.com/derpdex-offical/derpdex-sdk.git",
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "derpdex",
+    "zksync"
   ],
   "module": "dist/v3-sdk.esm.js",
   "scripts": {
