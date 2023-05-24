@@ -4,14 +4,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⚒️ An SDK for building applications on top of DerpDex",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/derpdex-offical/derpdex-sdk.git",
+  "repository": "https://github.com/derpdex-official/derpdex-sdk.git",
   "keywords": [
     "derpdex",
     "zksync"
